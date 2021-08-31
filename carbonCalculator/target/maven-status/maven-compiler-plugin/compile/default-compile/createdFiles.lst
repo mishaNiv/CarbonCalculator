@@ -1,0 +1,10 @@
+com\mycompany\carboncalculator\Vehicle.class
+com\mycompany\carboncalculator\App.class
+com\mycompany\carboncalculator\Main.class
+module-info.class
+com\mycompany\carboncalculator\Plane.class
+com\mycompany\carboncalculator\Trip.class
+com\mycompany\carboncalculator\CarTrip.class
+com\mycompany\carboncalculator\FlightTrip.class
+com\mycompany\carboncalculator\SystemInfo.class
+com\mycompany\carboncalculator\Car.class
